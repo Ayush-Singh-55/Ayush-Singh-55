@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ayush Singh 👋
 
-<!--
-**Ayush-Singh-55/Ayush-Singh-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Learner | Ethical Hacking | Linux & Networking
 
-Here are some ideas to get you started:
+I am passionate about cybersecurity and currently learning ethical hacking, Linux systems, and networking.  
+I enjoy exploring security tools, building my technical skills, and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- Linux
+- Networking Basics
+- Cybersecurity Fundamentals
+- Git & GitHub
+
+---
+
+## 📌 Goals
+- Learn penetration testing
+- Build security tools
+- Contribute to open source
+- Improve programming skills
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/ayush-singh-770842328/
+- GitHub: https://github.com/Ayush-Singh-55
